@@ -25,7 +25,7 @@ Super cool place to be
   </tr>
   <tr>
     <td>Domain Separation</td>
-    <td>MDefense in Depth</td>
+    <td>Defense in Depth</td>
   </tr>
   <tr>
     <td>Process Isolation</td>
